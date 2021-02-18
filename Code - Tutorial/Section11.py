@@ -26,3 +26,5 @@ else:
 fruits="BANANA"
 for each_char in fruits:
     print(each_char,end="")
+
+# vscode://vscode.github-authentication/did-authenticate?windowid=1&code=53e78e499dfa25129b1a&state=de7b2541-0643-492d-a8db-22e712a99db9
