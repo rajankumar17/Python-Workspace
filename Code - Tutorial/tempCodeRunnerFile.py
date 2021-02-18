@@ -1,1 +1,1 @@
-modulo_result
+uple[4]+" variables.")
