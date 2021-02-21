@@ -19,7 +19,7 @@ class buildings:
 
         if self.apartment_size > 130:
             season_price_buffer += 0.1
-        print("Bufer is : " +str(season_price_buffer))
+        print("Buffer is : " +str(season_price_buffer))
         total_rent = base_price_per_month * season_price_buffer
         # print("Total rent in the " +self.season_in_year +" is : " +str(total_rent))
         print("Total rent for %s apartment number %s. Apartment's size is : %s meters" %(total_rent,self.apartment_number, self.apartment_size))
@@ -33,6 +33,7 @@ class buildings:
         else:
             manitenance = 50
         print("Maintenance is %s" %(str(manitenance)))
+        print("Maintenance is "+ str(manitenance))
 
 
 

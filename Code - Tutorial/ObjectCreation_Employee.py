@@ -17,7 +17,6 @@ sara.attendance_check()
 
 michael = Employee("michael", "3000" , True)
 michael.show_employees_details()
-
 michael.attendance_check()
 
 

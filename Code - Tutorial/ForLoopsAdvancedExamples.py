@@ -18,7 +18,7 @@ for place in range(0, 9, 3):
         pass
 
     else:
-        salary_with_bonus = salary[place] + place * 1000
+        salary_with_bonus = salary[place] + place * 100
         print(salary_with_bonus)
 
 
